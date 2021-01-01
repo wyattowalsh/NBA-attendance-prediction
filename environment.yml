@@ -1,0 +1,22 @@
+name: NBA-attendance-prediction
+channels:
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - python
+  - ipykernel
+  - nb_conda
+  - jupyter_contrib_nbextensions
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - yapf
+  - isort
+  - pip
+  - pip:
+    - nba_api
+  
