@@ -1,0 +1,4 @@
+,$OSR^2$,Mean Absolute Error,Root Mean Square Error,Tuning Parameters
+Dataset 1 Extra Trees,0.6126631404185814,845.6351438194872,1255.866586887403,"{'bootstrap': True, 'max_depth': 35, 'max_features': 45, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 250}"
+Dataset 2 Extra Trees,0.6069753046138618,839.6749529807446,1247.0359108233197,"{'bootstrap': True, 'max_depth': 35, 'max_features': 80, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 250}"
+Dataset 3 Extra Trees,0.5754675258273465,861.5196882219917,1294.1839385343526,"{'bootstrap': True, 'max_depth': 35, 'max_features': 80, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 250}"

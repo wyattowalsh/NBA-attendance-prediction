@@ -1,0 +1,4 @@
+,$OSR^2$,Mean Absolute Error,Root Mean Square Error,Tuning Parameters
+Dataset 1 Random Forest,0.5867113568835153,892.017981107466,1297.256418156939,"{'bootstrap': False, 'max_depth': 90, 'max_features': 30, 'min_samples_leaf': 8, 'min_samples_split': 4, 'n_estimators': 400}"
+Dataset 2 Random Forest,0.591399029257063,877.5496796237844,1271.5069465312822,"{'bootstrap': False, 'max_depth': 30, 'max_features': 30, 'min_samples_leaf': 8, 'min_samples_split': 4, 'n_estimators': 400}"
+Dataset 3 Random Forest,0.5739541924157796,891.2846372443629,1296.4885790748142,"{'bootstrap': False, 'max_depth': 30, 'max_features': 30, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 400}"

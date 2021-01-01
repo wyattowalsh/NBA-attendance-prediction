@@ -1,0 +1,25 @@
+name: ieor_142_project
+channels:
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - matplotlib
+  - conda-build
+  - jupyter_contrib_nbextensions
+  - r-irkernel
+  - r-essentials
+  - numpy
+  - seaborn
+  - ipykernel
+  - nb_conda
+  - pandas
+  - html5lib
+  - scikit-learn
+  - pytest
+  - keras
+  - autopep8
+  - ipywidgets
+  - scipy
+  - conda
+

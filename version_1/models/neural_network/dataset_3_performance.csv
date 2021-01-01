@@ -1,0 +1,2 @@
+,$OSR^2$,Mean Absolute Error,Root Mean Square Error,Tuning Parameters
+Dataset 3 Single Layer Neural Network,0.30836594362272096,1230.7679453256967,1651.8809025937437,"{'shape': (90,), 'learning_rate': 1, 'epochs': 50, 'batch_size': 2056}"

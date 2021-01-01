@@ -1,0 +1,19 @@
+,$OSR^2$,Mean Absolute Error,Root Mean Square Error,Tuning Parameters
+Dataset 1 AdaBoost,0.5139197029862899,978.2448373455826,1406.8671890668186,"{'base_estimator': DecisionTreeRegressor(ccp_alpha=0.0, criterion='mse', max_depth=5,
+                      max_features=None, max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, presort='deprecated',
+                      random_state=None, splitter='best'), 'learning_rate': 1e-06, 'loss': 'linear', 'n_estimators': 250}"
+Dataset 2 AdaBoost,0.5136052565789555,966.6409004113839,1387.2779277876562,"{'base_estimator': DecisionTreeRegressor(ccp_alpha=0.0, criterion='mse', max_depth=5,
+                      max_features=None, max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, presort='deprecated',
+                      random_state=None, splitter='best'), 'learning_rate': 4.7207333745373274e-05, 'loss': 'exponential', 'n_estimators': 250}"
+Dataset 3 AdaBoost,0.4663169308378965,1019.2340112955027,1451.0496071431126,"{'base_estimator': DecisionTreeRegressor(ccp_alpha=0.0, criterion='mse', max_depth=5,
+                      max_features=None, max_leaf_nodes=None,
+                      min_impurity_decrease=0.0, min_impurity_split=None,
+                      min_samples_leaf=1, min_samples_split=2,
+                      min_weight_fraction_leaf=0.0, presort='deprecated',
+                      random_state=None, splitter='best'), 'learning_rate': 0.0006166174163308118, 'loss': 'linear', 'n_estimators': 250}"

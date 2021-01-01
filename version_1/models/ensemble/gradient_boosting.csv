@@ -1,0 +1,4 @@
+,$OSR^2$,Mean Absolute Error,Root Mean Square Error,Tuning Parameters
+Dataset 1 Gradient Boosting,0.6017236912694734,810.3601665109481,1273.4776550525562,"{'n_estimators': 785, 'min_samples_split': 8, 'min_samples_leaf': 64, 'max_features': 61, 'max_depth': 10, 'loss': 'huber', 'learning_rate': 0.014563484775012445, 'alpha': 0.1666675}"
+Dataset 2 Gradient Boosting,0.5892373947702888,794.3858303675675,1274.865856425541,"{'n_estimators': 816, 'min_samples_split': 256, 'min_samples_leaf': 8, 'max_features': 59, 'max_depth': 2, 'loss': 'lad', 'learning_rate': 0.07906043210907701, 'alpha': 0.25000075}"
+Dataset 3 Gradient Boosting,0.5841293353837871,821.9539828831612,1280.9131687735746,"{'n_estimators': 877, 'min_samples_split': 32, 'min_samples_leaf': 64, 'max_features': 82, 'max_depth': 10, 'loss': 'lad', 'learning_rate': 0.014563484775012445, 'alpha': 0.29166737499999995}"
