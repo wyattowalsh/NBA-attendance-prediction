@@ -1,4 +1,4 @@
-name: ieor_142_project
+name: NBA-attendance-prediction
 channels:
   - conda-forge
   - defaults
