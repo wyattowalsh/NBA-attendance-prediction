@@ -128,7 +128,7 @@ Using the command prompt, navigate to the local project repository directory -- 
 
 In your command prompt, call: `conda env create -f environment.yml`. This will create a new Conda virtual environment with the name: `NBA-attendance-prediction`.
 
-Activate the new environment by using: `conda activate higher-education-simulation`
+Activate the new environment by using: `conda activate NBA-attendance-prediction`
 
 #### Access Project
 
