@@ -2,7 +2,13 @@
 
 This project seeks to provide a tool to accurately predict the attendance of NBA games in order to better inform the business decisions of different stakeholders across the organization. Predicting game attendance is crucial to making optimized managerial decisions such as planning necessary staffing needs or procuring the proper level of supplies (janitorial, food services, etc). The project is currently being worked on in its second version, `version_2`. In version 1, an entire machine learning pipeline is established throughout a host of modules ranging from web scraping for data collection to neural-network regression modeling for prediction. These efforts resulted in a high accuracy model with mean absolute error values for attendance around 800 people. However, improvements in data sources and modeling paradigms for improved accuracy are being sought in a few ways in the upcoming version. Click the link below to view the analysis and modeling version 1.0 notebook or continue reading for more about the project. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wyattowalsh/NBA-attendance-prediction/HEAD?filepath=nb.ipynb)
+<p align="center">
+  Interact with the project notebook in your web browser using the <i>Binder</i> service  
+<a target="_blank" rel="noopener noreferrer" href=https://mybinder.org/v2/gh/wyattowalsh/NBA-attendance-prediction/HEAD?filepath=nb.ipynb> <img src=https://mybinder.org/badge_logo.svg></a>
+ <br><br>
+</p>
+
+![](notebook_preview.gif)
 
 ---
 
