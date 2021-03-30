@@ -82,7 +82,7 @@ py==1.8.0
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-Pygments==2.5.2
+Pygments==2.7.4
 pygpu==0.7.6
 pyOpenSSL==19.1.0
 pyparsing==2.4.5
