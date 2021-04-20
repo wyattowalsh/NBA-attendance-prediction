@@ -78,7 +78,7 @@ prompt-toolkit==3.0.2
 protobuf==3.11.1
 psutil==5.6.7
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
