@@ -62,7 +62,7 @@ nbconvert==5.6.1
 nbformat==4.4.0
 nbresuse==0.3.3
 notebook==6.0.1
-numpy==1.17.3
+numpy==1.22.0
 opt-einsum==0+untagged.49.gdbede45.dirty
 packaging==19.2
 pandas==0.25.3
